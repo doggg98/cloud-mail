@@ -16,7 +16,7 @@ enabled = true
 #id = ""					#kv数据库id
 
 #[[r2_buckets]]
-#binding = "r2"			#r2对象存储绑定名默认不可修改
+#binding = "r2"			#r2对象存储绑定名默认不可修改 
 #bucket_name = ""		#r2对象存储桶的名字
 
 [assets]
